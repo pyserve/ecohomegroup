@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Hero = () => {
+const Banner = () => {
   return (
     <section className="hero-section text-white text-center">
       <h2>Providing Comfort, Efficiency, and Quality HVAC Solutions</h2>
@@ -9,4 +9,4 @@ const Hero = () => {
   );
 };
 
-export default Hero;
+export default Banner;
