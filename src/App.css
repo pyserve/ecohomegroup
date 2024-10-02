@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+html, body {
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.hero-section {
+  background: url('/path-to-your-hero-image.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 5rem 2rem;
+  color: white;
+}
