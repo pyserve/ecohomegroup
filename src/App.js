@@ -51,7 +51,7 @@ const App = () => {
               <div className='my-1'>
                 <div className='h5 fw-bold'>Canadian Eco Home</div>
                 <a href='https://canadianchoicehs.ca/' className='nav-link' target='_blank' rel="noreferrer">
-                  <button className='mt-2 btn btn-primary'>View Website &#8594;</button>
+                  <button className='mt-2 btn btn-outline-dark'>View Website &#8594;</button>
                 </a>
               </div>
             </div>
@@ -65,7 +65,7 @@ const App = () => {
               <div className='my-1'>
                 <div className='h5 fw-bold'>Weaver Eco Home</div>
                 <a href='https://www.weaverecohome.ca/' className='nav-link' target='_blank' rel="noreferrer">
-                  <button className='mt-2 btn btn-info text-white'>View Website &#8594;</button>
+                  <button className='mt-2 btn btn-outline-dark'>View Website &#8594;</button>
                 </a>
               </div>
             </div>
