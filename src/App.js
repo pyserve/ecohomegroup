@@ -50,7 +50,9 @@ const App = () => {
               />
               <div className='my-1'>
                 <div className='h5 fw-bold'>Canadian Eco Home</div>
-                <button className='mt-2 btn btn-primary'>View Website &#8594;</button>
+                <a href='https://canadianchoicehs.ca/' className='nav-link' target='_blank' rel="noreferrer">
+                  <button className='mt-2 btn btn-primary'>View Website &#8594;</button>
+                </a>
               </div>
             </div>
             <div className="col-md-6">
@@ -62,7 +64,9 @@ const App = () => {
               />
               <div className='my-1'>
                 <div className='h5 fw-bold'>Weaver Eco Home</div>
-                <button className='mt-2 btn btn-info text-white'>View Website &#8594;</button>
+                <a href='https://www.weaverecohome.ca/' className='nav-link' target='_blank' rel="noreferrer">
+                  <button className='mt-2 btn btn-info text-white'>View Website &#8594;</button>
+                </a>
               </div>
             </div>
           </div>
