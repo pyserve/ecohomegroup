@@ -25,8 +25,13 @@ export default function Card() {
             />
           </div>
           <h5 className="card-title text-center h1">Eco Home Group</h5>
-          <p className="card-text text-center">
-            Expert HVAC Products & Services for Your Home Comfort
+          <p className="text-justify">
+            Eco Home Group is dedicated to delivering the best in HVAC products
+            and services. From installation to maintenance and repair, our
+            experienced team ensures your home remains comfortable and
+            energy-efficient year-round. We focus on sustainability and customer
+            satisfaction, offering eco-friendly options that keep your energy
+            costs down while ensuring high-performance systems for your home.
           </p>
         </div>
         <div className="row text-center">
